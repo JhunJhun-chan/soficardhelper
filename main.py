@@ -137,7 +137,7 @@ while True:
 
     completed += 1
 
-    print(f"Sent: {command}")
+    print(f"[{completed}/{TOTAL}] Sent {command}")
 
     # Save to sent.txt
     with open("sent.txt", "a") as f:
