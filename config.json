@@ -1,12 +1,11 @@
 {
-    "startup_delay": 10,
-
-    "pre_paste_min": 0.8,
-    "pre_paste_max": 1.5,
-
-    "post_paste_min": 2.5,
-    "post_paste_max": 4.0,
-
-    "wait_min": 12.0,
-    "wait_max": 13.5
+  "pause_key": "F8",
+  "stop_key": "F9",
+  "startup_delay": 10,
+  "pre_paste_min": 0.8,
+  "pre_paste_max": 1.5,
+  "post_paste_min": 2.5,
+  "post_paste_max": 4.0,
+  "wait_min": 12,
+  "wait_max": 13.5
 }
